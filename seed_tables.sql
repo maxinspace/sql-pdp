@@ -5,7 +5,7 @@ INSERT INTO teachers (name) VALUES
   ('Teacher1'), ('Teacher2'), ('Teacher3'), ('Teacher4'), ('Teacher5');
 
 INSERT INTO courses (name, teacher_id) VALUES
-  ('Course1', 1), ('Course2', 2), ('Course3', 3), ('Course4', 1), ('Course5', 4);
+  ('#101', 1), ('#102', 2), ('#103', 3), ('#104', 1), ('#105', 4);
 
 INSERT INTO students_courses VALUES
   (4, 3),
